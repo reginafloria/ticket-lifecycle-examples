@@ -41,8 +41,8 @@ Display of the open tickets in osTicketing which have not been assigned or prior
 <img src="https://imgur.com/McGjfXE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>SLA's (Service Level Agreements) are used to prioritize incoming tickets. An SLA is an agreement which
-describes the urgency in which a ticket must be resolved.  In this case. the ticket has been assigned to
-John, at Sev-B. Sev-B means that John has a 4 hour window in which to resolve the issue.
+describes the urgency in which a ticket must be resolved in order to prevent any impact to the business.
+In this case. the ticket has been assigned to John, at Sev-B. Sev-B means that John has a 4 hour window in which to resolve the issue.
 </p>
 <br />
 
