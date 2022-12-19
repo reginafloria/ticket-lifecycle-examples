@@ -50,7 +50,7 @@ John, at Sev-B. Sev-B means that John has a 4 hour window in which to resolve th
 <img src="https://imgur.com/Z1OhdiM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This ticke has a lower priority and has been assigned to Jane.  It has been prioritized as a Sev-C, which
+This ticket has a lower priority and has been assigned to Jane.  It has been prioritized as a Sev-C, which
 means Jane has an eight hour window in which she must resolve the issue. Sev-C's are only worked on
 Monday - Friday 8am-5pm.
 </p>
